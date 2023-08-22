@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Time Zone Editor
 Version = 4.0
 License = Unknown

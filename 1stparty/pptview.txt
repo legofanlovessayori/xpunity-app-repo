@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Microsoft Powerpoint Viewer
 Version = 2010
 License = Unknown

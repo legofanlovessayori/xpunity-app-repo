@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Microsoft Excel Viewer
 Version = 2007
 License = Unknown

@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Bitlocker To Go Reader
 Version = 1.0
 License = Unknown

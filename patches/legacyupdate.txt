@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Legacy Update
 Version = 1.7.1
 License = Unknown

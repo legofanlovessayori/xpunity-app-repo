@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = XPS Essential Pack
 Version = 1.2
 License = Unknown
