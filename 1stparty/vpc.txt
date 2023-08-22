@@ -1,8 +1,8 @@
-﻿[Section]
+[Section]
 Name = Microsoft Virtual PC
 Version = 2007
 License = Unknown
-Description = With Microsoft® Virtual PC 2007, you can create and run one or more virtual machines, each with its own operating system, on a single computer.
+Description = With Microsoft Virtual PC 2007, you can create and run one or more virtual machines, each with its own operating system, on a single computer.
 Category = 10
 URLSite = https://legacyupdate.net/download-center/download/4580/virtual-pc-2007
 URLDownload = http://archive.org/download/xpunity-appmgr-mirror-firstparty/setup.exe

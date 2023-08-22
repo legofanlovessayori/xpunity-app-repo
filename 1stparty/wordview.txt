@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Microsoft Word Viewer
 Version = 2003
 License = Unknown

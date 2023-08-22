@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Windows Powershell
 Version = 2.0
 License = Unknown

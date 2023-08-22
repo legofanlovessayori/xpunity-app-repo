@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = 7-Zip
 Version = 23.01
 License = LGPL
