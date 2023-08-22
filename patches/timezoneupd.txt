@@ -4,6 +4,6 @@ Version = 2017
 License = Unknown
 Description = Provides more up-to-date Time Zone Maps for Windows XP.
 Category = 10
-URLDownload = http://web.archive.org/web/20220422005301/https://07.sendcdn.com/d/bfyqde3f6gosj4l4652fnf5uq5lz33xod76y3ccdcljmoex54iylf2cvcurbsnk5c6opwomy/Windows%20NT%205.x%20-%202017%20Time%20Zones.exe
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-patches/Windows%20NT%205.x%20-%202017%20Time%20Zones.exe
 SHA1 = 98ABDD07140047A858EE9B4BBA0B0909CBE71C1E
 SizeBytes = 402430
