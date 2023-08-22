@@ -1,4 +1,4 @@
-[Section]
+﻿[Section]
 Name = Audacity
 Version = 2.2.2
 License = GPL
