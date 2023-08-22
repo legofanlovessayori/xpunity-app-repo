@@ -1,0 +1,11 @@
+[Section]
+Name = Audacity
+Version = 2.2.2
+License = GPL
+Description = Free, open source, cross-platform software for recording and editing sounds.
+Category = 1
+URLSite = http://audacityteam.org/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/audacity-win-2.2.2.exe
+SHA1 = 39d00d43e72a7944f433d3f61855a487b5797328
+SizeBytes = 20248056
+Icon = audacity.ico
