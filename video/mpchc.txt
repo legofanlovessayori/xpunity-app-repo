@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Media Player Classic Home Cinema (MPC-HC)
 Version = 1.7.13.32
 License = Unknown

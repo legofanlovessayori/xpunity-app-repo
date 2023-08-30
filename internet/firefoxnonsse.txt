@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Mozilla Firefox (non-SSE2 CPU's)
 Version = 45.9.0esr
 License = MPL/GPL/LGPL

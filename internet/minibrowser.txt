@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = MiniBrowser
 Version = 1.0.0.127
 License = Unknown
@@ -15,5 +15,3 @@ Version = 1.0.0.127
 URLDownload = https://archive.org/download/360EE_Modified_Version/MiniBrowser_1.0.0.127_XPx64_Modified.7z
 SHA1 = 8B4704BAF842B307C1006F51604CE823E627C452
 SizeBytes = 55632838
-
-

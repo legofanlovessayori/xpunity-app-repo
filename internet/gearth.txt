@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Google Earth
 Version = 7.1.8.3036
 License = Unknown

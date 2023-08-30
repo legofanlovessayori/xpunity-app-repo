@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Everything
 Version = 1.4.1.986
 License = Unknown
@@ -9,4 +9,3 @@ URLDownload = https://archive.org/download/xpunity-appmgr-mirror_20230822/Everyt
 SHA1 = 3EB3184ACCDD11E0E476FEA323FAFC1111203428
 SizeBytes = 1556456
 Icon = everything.ico
-

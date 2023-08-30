@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = K-Lite Codec Pack (Non-SSE CPU's)
 Version = 10.2.0 Full
 License = Unknown

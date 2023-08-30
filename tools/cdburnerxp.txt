@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = CDburnerXP
 Version = 4.5.8
 License = Unknown
@@ -9,4 +9,3 @@ URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/cdbxp_s
 SHA1 = 8ACA208094C5E51DF3064C273C76DDA2C31FB1EC
 SizeBytes = 5385040
 Icon = cdburnerxp.ico
-

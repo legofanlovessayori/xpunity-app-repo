@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Mozilla Firefox
 Version = 52.9.0esr
 License = MPL/GPL/LGPL

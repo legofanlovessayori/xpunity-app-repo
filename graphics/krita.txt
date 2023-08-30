@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Krita
 Version = 3.2.1
 License = GPL

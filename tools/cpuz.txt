@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = CPUID CPU-Z
 Version = 2.02
 License = EULA

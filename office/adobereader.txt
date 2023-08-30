@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Adobe Reader
 Version = 3.1.2
 License = Unknown

@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Mypal
 Version = 68.13.2b
 License = MPL/GPL/LGPL
