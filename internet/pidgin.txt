@@ -1,0 +1,11 @@
+[Section]
+Name = Pidgin
+Version = 2.14.1
+License = MPL/GPL/LGPL
+Description = Pidgin is a MSN Messenger-like Internet Messenger client. Supports Discord with a 3rd-party Plugin.
+Category = 5
+URLSite = https://sourceforge.net/projects/pidgin/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/pidgin-2.14.1-offline.exe
+Icon = pidgin.ico
+SHA1 = 73B289232334A547CAD02413681268C78FD25729
+SizeBytes = 33322904

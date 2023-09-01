@@ -1,0 +1,11 @@
+[Section]
+Name = SpotifyXP
+Version = 2.0
+License = GPL
+Description = A open source 3rd party Spotify client for old PC's. Requires Java 8.
+Category = 1
+URLSite = https://github.com/werwolf2303/SpotifyXP
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/SpotifyXP.jar
+SHA1 = A9224E01EF1F7121DA3233A3D108414109614688
+SizeBytes = 47208290
+Icon = spotifyxp.ico

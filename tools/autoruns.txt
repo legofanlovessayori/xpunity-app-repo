@@ -1,0 +1,11 @@
+[Section]
+Name = Autoruns
+Version = 13.71
+License = Unknown
+Description = Autorun Managment Utility, bundled with Microsofts Systinternals Tools.
+Category = 12
+URLSite = https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns
+URLDownload = http://web.archive.org/web/20170825040925/https://download.sysinternals.com/files/Autoruns.zip
+SHA1 = 62C0AF2D62D58AA51650F1BF23D0222D43BF9BB1
+SizeBytes = 1305367
+Icon = autoruns.ico

@@ -1,0 +1,11 @@
+[Section]
+Name = CDburnerXP
+Version = 4.5.8
+License = Unknown
+Description = Powerful disk burning suite for Windows.
+Category = 12
+URLSite = https://cdburnerxp.se/en/download
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/cdbxp_setup_4.5.8.7128_minimal.exe
+SHA1 = 8ACA208094C5E51DF3064C273C76DDA2C31FB1EC
+SizeBytes = 5385040
+Icon = cdburnerxp.ico

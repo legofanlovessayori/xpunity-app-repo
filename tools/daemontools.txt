@@ -1,0 +1,11 @@
+[Section]
+Name = Daemon Tools Lite
+Version = 5.0.1.0406
+License = Unknown
+Description = Utility to mount ISO images to your PC.
+Category = 12
+URLSite = https://www.daemon-tools.cc/products/dtlite
+URLDownload = http://web.archive.org/web/20210929154535/https://dl5.filehippo.com/db0/2b7/21ae16e238e782cff99663fa18fe2dba8a/DTLite501-0406.exe?Expires=1632969995&Signature=1a1c5a3b8eb0efd561c2d2fb8e09d6e4f2962b61&url=https%3A%2F%2Ffilehippo.com%2Fdownload_daemon-tools-lite%2F&Filename=DTLite501-0406.exe
+SHA1 = DB02B721AE16E238E782CFF99663FA18FE2DBA8A
+SizeBytes = 13223208
+Icon = daemontools.ico

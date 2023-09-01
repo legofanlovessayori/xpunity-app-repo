@@ -1,0 +1,12 @@
+[Section]
+Name = Foxit Reader
+Version = 6.2.3.0815
+License = Unknown
+LicenseInfo = 1
+Description = PDF Viewer and editor.
+Category = 6
+URLSite = https://www.foxit.com/pdf-reader/
+URLDownload = http://cdn01.foxitsoftware.com/pub/foxit/reader/desktop/win/6.x/6.2/enu/FoxitReader623.815_enu_Setup.exe
+SHA1 = EF92F85B733564C13EFE01D592FAFB1A32B152AF
+SizeBytes = 37446168
+Icon = foxitreader.ico

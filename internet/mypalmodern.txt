@@ -1,0 +1,11 @@
+[Section]
+Name = Mypal
+Version = 68.13.2b
+License = MPL/GPL/LGPL
+Description = Fork of Firefox 68 for Windows XP, maintained by Feodor2.
+Category = 5
+URLSite = https://github.com/Feodor2/Mypal68
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/mypal-68.13.2.en-US.win32.zip
+SHA1 = 61B99DA12FC8CB6933100E653F2B002885885CA8
+SizeBytes = 64816795
+Icon = mypalmodern.ico

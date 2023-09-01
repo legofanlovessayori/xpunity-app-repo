@@ -1,0 +1,12 @@
+[Section]
+Name = Apache OpenOffice
+Version = 4.1.14
+License = AL v2.0
+LicenseInfo = 1
+Description = Open source office suite.
+Category = 6
+URLSite = https://www.openoffice.org/
+URLDownload = https://download.sourceforge.net/project/openofficeorg.mirror/4.1.14/binaries/en-US/Apache_OpenOffice_4.1.14_Win_x86_install_en-US.exe
+SHA1 = 573a4279e944f4dffc0736edaa5f885b874450dd
+SizeBytes = 142626792
+Icon = openoffice.ico

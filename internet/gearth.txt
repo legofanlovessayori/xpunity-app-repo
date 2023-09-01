@@ -1,0 +1,11 @@
+[Section]
+Name = Google Earth
+Version = 7.1.8.3036
+License = Unknown
+Description = Popular Mapping Service made by Google.
+Category = 5
+URLSite = https://www.google.com/earth/index.html
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/googleearth-win-pro-7.1.8.3036.exe
+SHA1 = 8366B739342B4FE3B42A379B005722EA7B4B28DC
+SizeBytes = 33476600
+Icon = gearth.ico

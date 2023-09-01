@@ -1,0 +1,11 @@
+[Section]
+Name = Inkscape
+Version = 0.48.5.1
+License = GPL
+Description = A vector graphics editor licensed under the GNU General Public License.
+Category = 3
+URLSite = https://www.inkscape.org/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/Inkscape-0.48.5-1-win32.exe
+SHA1 = 6fa012e495aab0624056054003c998137326219a
+SizeBytes = 34573304
+Icon = inkscape.ico

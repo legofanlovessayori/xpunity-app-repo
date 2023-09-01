@@ -1,0 +1,10 @@
+[Section]
+Name = SetTimerService
+Version = 1
+License = Unknown
+Description = A service that fixes distorted Audio on VMware 16.x Guests.
+Category = 13
+URLSite = https://github.com/temerkhanov/SetTimerService
+URLDownload = https://github.com/temerkhanov/SetTimerService/blob/master/Release/SetTimerService.exe
+SHA1 = D17F408DC2FFCAF9E71A3FEE621D87CE6F4FFA53
+SizeBytes = 73728

@@ -1,0 +1,12 @@
+[Section]
+Name = Adobe Reader
+Version = 3.1.2
+License = Unknown
+LicenseInfo = 1
+Description = Closed source PDF Viewer from Adobe.
+Category = 6
+URLSite = https://www.adobe.com/acrobat/pdf-reader.html
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/AdbeRdr11008_en_US.exe
+SHA1 = 3E889258EA2000337BBE180D81317D44F617A292
+SizeBytes = 76971416
+Icon = adobereader.ico

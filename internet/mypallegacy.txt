@@ -1,0 +1,11 @@
+[Section]
+Name = Mypal Legacy
+Version = 29.3.0
+License = MPL/GPL/LGPL
+Description = Legacy version of Mypal, a fork of Pale Moon / Firefox maintained by Feodor2.
+Category = 5
+URLSite = https://www.mypal-browser.org
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/mypal-29.3.0.win32.installer.exe
+SHA1 = 1484333CDFB7F7D81A38A9B9462D53D880FEE500
+SizeBytes = 34005984
+Icon = mypallegacy.ico

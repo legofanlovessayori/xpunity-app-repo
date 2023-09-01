@@ -1,0 +1,11 @@
+[Section]
+Name = K-Meleon
+Version = 76.4.9
+License = GPL
+Description = An extremely fast, customizable and still lightweight web browser based on the Gecko layout engine.
+Category = 5
+URLSite = http://kmeleonbrowser.org
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/KM76.4.9-Goanna-20230819.7z
+SHA1 = 7F20D07651F5E9D4697F7E7978F3EFE576E05B18
+SizeBytes = 37941285
+Icon = kmeleon.ico

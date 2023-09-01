@@ -1,0 +1,11 @@
+[Section]
+Name = Paint.NET
+Version = 3.5.11
+License = Freeware
+Description = A more simple Open Source image editing Program.
+Category = 3
+URLSite = http://www.dotpdn.com
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/Paint.NET.3.5.11.Install.zip
+SHA1 = D2CF0F1261A0243243A2A022FB65ACEF615D0909
+SizeBytes = 3739157
+Icon = paintnet.ico

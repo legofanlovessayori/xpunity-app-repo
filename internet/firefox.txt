@@ -1,0 +1,11 @@
+[Section]
+Name = Mozilla Firefox
+Version = 52.9.0esr
+License = MPL/GPL/LGPL
+Description = A popular Web browser. Free and open source, made by a global community.
+Category = 5
+URLSite = https://www.mozilla.org/en-US/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/Firefox%20Setup%2052.9.0esr.exe
+SHA1 = 705240C720A631C5B7C70EF41F5AF0F272721EA9
+SizeBytes = 45470192
+Icon = firefox.ico

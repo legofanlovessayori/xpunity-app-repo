@@ -1,0 +1,11 @@
+[Section]
+Name = iTunes
+Version = 12.1.3.6
+License = Unknown
+Description = Closed Source Music streaming platform by Apple.
+Category = 1
+URLSite = https://www.apple.com/itunes/
+URLDownload = http://ia801900.us.archive.org/4/items/i-tunes-setup-12.1.3.6-windows-xp-32-bit/iTunesSetup%2012.1.3.6%20(Windows%20XP).exe
+SHA1 = C64DF8D296192EFD257DEF62E65D13C83AB150A8
+SizeBytes = 108771096
+Icon = itunes.ico

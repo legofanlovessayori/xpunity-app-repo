@@ -1,0 +1,12 @@
+[Section]
+Name = LibreOffice
+Version = 5.4.7.2
+License = MPL
+LicenseInfo = 1
+Description = Popular open source Office Suite.
+Category = 6
+URLSite = https://www.libreoffice.org
+URLDownload = https://downloadarchive.documentfoundation.org/libreoffice/old/5.4.7.2/win/x86/LibreOffice_5.4.7.2_Win_x86.msi
+SHA1 = BE0769418EED84391F9CBCB3702B5E7D344CDFA0
+SizeBytes = 225308672
+Icon = libreoffice.ico

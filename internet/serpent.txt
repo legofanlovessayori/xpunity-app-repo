@@ -1,0 +1,11 @@
+[Section]
+Name = Serpent
+Version = 52.9.0
+License = Unknown
+Description = roytam1's maintained Basilisk fork, based against Firefox 52.9.0.
+Category = 5
+URLSite = https://rtfreesoft.blogspot.com/
+URLDownload = https://o.rthost.win/basilisk/basilisk52-g4.8.win32-git-20230826-3219d2d-uxp-28f55eb5c4-xpmod.7z
+SHA1 = 02FCBEAED99A78E57411FFAD8218474EF570E70D
+SizeBytes = 45281280
+Icon = serpent.ico

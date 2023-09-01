@@ -1,0 +1,11 @@
+[Section]
+Name = IrfanView Plugins
+Version = 4.51
+License = Freeware (for personal use)
+Description = Additional Plugins for supporting more file types.
+Category = 3
+URLSite = http://www.irfanview.com/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/iview451_plugins_setup.exe
+SHA1 = 1e2d2a83eeb9d4f5d48776789e159a3ba332f5fd
+SizeBytes = 16595080
+Icon = irfanview.ico

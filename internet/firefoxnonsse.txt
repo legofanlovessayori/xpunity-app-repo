@@ -1,0 +1,11 @@
+[Section]
+Name = Mozilla Firefox (non-SSE CPU's)
+Version = 45.9.0esr
+License = MPL/GPL/LGPL
+Description = A popular Web browser. Free and open source, made by a global community. Last version for CPU's without SSE support (Pentium II, etc)
+Category = 5
+URLSite = https://www.mozilla.org/en-US/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/Firefox%20Setup%2045.9.0esr.exe
+SHA1 = 8538EBF9F50474AC9A2738DA38B9686C01367B5D
+SizeBytes = 43930976
+Icon = firefoxnonsse.ico

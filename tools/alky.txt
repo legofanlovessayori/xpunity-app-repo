@@ -1,0 +1,10 @@
+[Section]
+Name = Alky for Applications
+Version = 1.1
+License = Unknown
+Description = Provides a compatibility layer for running Apps designed for Windows Vista on Windows XP.
+Category = 12
+URLSite = http://alkyforapplications.net
+URLDownload = http://alkyforapplications.net/downloads/Alky_1_1_Trunk_032308-000051_xp.zip
+SHA1 = 37307F63F813BF3FCFD0BEDB593344813B4E0656
+SizeBytes = 3138806

@@ -1,0 +1,11 @@
+[Section]
+Name = Free Download Manager (FDM)
+Version = 6.4.0 Build 7
+License = GPL
+Description = A free of charge Download Manager.
+Category = 5
+URLSite = https://freedownloadmanager.org
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/fdminst.exe
+SHA1 = E9D6BCA62FA646B1327BFEDF5E0EEE6BB4644F26
+SizeBytes = 10896016
+Icon = fdm.ico

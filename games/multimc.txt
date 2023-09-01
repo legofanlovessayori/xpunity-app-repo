@@ -1,0 +1,11 @@
+[Section]
+Name = MultiMC
+Version = 0.6.13
+License = FOSS
+Description = A open source, Qt5 based Minecraft Launcher.
+Category = 4
+URLSite = https://multimc.org/
+URLDownload = https://github.com/MultiMC/Launcher/releases/download/0.6.13/mmc-stable-win32.zip
+SHA1 = 7C5A463FB1E788CF785749A52132A74E0A9FED61
+SizeBytes = 13950976
+Icon = multimc.ico

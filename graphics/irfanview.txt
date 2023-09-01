@@ -1,0 +1,11 @@
+[Section]
+Name = IrfanView
+Version = 4.51
+License = Freeware (for personal use)
+Description = Viewer for all kinds of graphics/audio files/video files.
+Category = 3
+URLSite = http://www.irfanview.com/
+URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/iview451_setup.exe
+SHA1 = ec492cad75a154a9ac9d6e356ac7c2b0dc62356f
+SizeBytes = 2466952
+Icon = irfanview.ico
