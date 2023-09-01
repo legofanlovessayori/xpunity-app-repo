@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Inkscape
 Version = 0.48.5.1
 License = GPL

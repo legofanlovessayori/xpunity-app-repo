@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Pidgin
 Version = 2.14.1
 License = MPL/GPL/LGPL

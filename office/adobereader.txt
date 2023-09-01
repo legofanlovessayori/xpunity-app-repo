@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Adobe Reader
 Version = 3.1.2
 License = Unknown
@@ -10,6 +10,3 @@ URLDownload = http://archive.org/download/xpunity-appmgr-mirror_20230822/AdbeRdr
 SHA1 = 3E889258EA2000337BBE180D81317D44F617A292
 SizeBytes = 76971416
 Icon = adobereader.ico
-
-[Section.0407]
-Description = PDF Viewer von Adobe, der nicht quelloffen ist.

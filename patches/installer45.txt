@@ -1,0 +1,15 @@
+[Section]
+Name = Windows Installer
+Version = 4.5
+License = Unknown
+Description = Windows Installer Runtime update.
+Category = 11
+URLSite = https://legacyupdate.net/download-center/download/8483/windows-installer-4.5-redistributable
+URLDownload = https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/2/6/1/261fca42-22c0-4f91-9451-0e0f2e08356d/WindowsServer2003-KB942288-v4-x86.exe
+SHA1 = 8ecc8fd0549ab6f26803e9c2f840a671760f913b
+SizeBytes = 1079672
+
+[Section.amd64]
+URLDownload = https://web.archive.org/web/20200801000000id_/https://download.microsoft.com/download/2/6/1/261fca42-22c0-4f91-9451-0e0f2e08356d/WindowsServer2003-KB942288-v4-x64.exe
+SHA1 = 9724f8b3c12fadeee26cd68e139f515cee28acee
+SizeBytes = 3071512

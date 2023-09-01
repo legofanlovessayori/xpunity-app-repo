@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Winamp
 Version = 5.24
 License = Unknown
@@ -9,4 +9,3 @@ URLDownload = http://archive.org/download/xpunity-appmgr-mirror-2/winamp524_full
 SHA1 = 2F74AA80DDD345C1FFE8E8495E29D0BF198056F2
 SizeBytes = 6206440
 Icon = winamp.ico
-

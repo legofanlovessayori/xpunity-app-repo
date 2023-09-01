@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Calibre
 Version = 2.0.0
 License = GLPv3
@@ -14,4 +14,3 @@ Icon = calibre2.ico
 URLDownload = https://download.calibre-ebook.com/2.0.0/calibre-64bit-2.0.0.msi
 SHA1 = 8e742f6eea826bbba8e4a17088e44293b132e656
 SizeBytes = 67489792
-

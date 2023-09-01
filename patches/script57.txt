@@ -1,0 +1,10 @@
+[Section]
+Name = Windows Script
+Version = 5.7
+License = Unknown
+Description = Windows Script Runtime (.vbs) update.
+Category = 11
+URLSite = https://legacyupdate.net/download-center/download/24059/windows-script-5.7-for-windows-server-2003
+URLDownload = https://download.microsoft.com/download/3/0/e/30e28ef2-c6b1-4510-a243-7643573d673a/scripten.exe
+SHA1 = c101da0be9d26e2fd06d5cc6aff58e75f7ba7f50
+SizeBytes = 1079672

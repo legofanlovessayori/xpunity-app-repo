@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = ClamWin Free Antivirus
 Version = 0.103.2.1
 License = GPL
@@ -10,4 +10,3 @@ URLDownload = https://archive.org/download/xpunity-appmgr-mirror_20230822/clamwi
 SHA1 = f75d795dd6c31ea646cd944ec944c3e8be2a8f17
 SizeBytes = 236832816
 Icon = clamwin.ico
-

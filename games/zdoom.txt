@@ -1,0 +1,11 @@
+[Section]
+Name = ZDoom
+Version = 2.8.1
+License = Unknown
+Description = A enhanced version of Id Software's DOOM that allows modding. Does not come with the Game, you need to supply your own WAD.
+Category = 4
+URLSite = https://zdoom.org/index
+URLDownload = https://zdoom.org/files/zdoom/2.8/zdoom-2.8.1.zip
+SHA1 = 8B2008C90C2D883BD694D3E5E3391985649A855F
+SizeBytes = 2597946
+Icon = zdoom.ico

@@ -1,0 +1,11 @@
+[Section]
+Name = Resource Hacker
+Version = 5.1.7
+License = Unknown
+Description = A Tool to modify Resources (Bitmaps, Icons, etc) in Windows Applications.
+Category = 12
+URLSite = http://www.angusj.com/resourcehacker/
+URLDownload = http://www.angusj.com/resourcehacker/reshacker_setup.exe
+SHA1 = C08392C797FCEA5147B3F0D7E07F57EEDC323911
+SizeBytes = 4176295
+Icon = resourcehacker.ico

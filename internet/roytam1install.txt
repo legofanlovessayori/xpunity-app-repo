@@ -1,0 +1,10 @@
+[Section]
+Name = RoyTam Browser Installer
+Version = 4 Preview 1 Fix 1
+License = Unknown
+Description = Installer utility for All RoyTam1 Browser forks.
+Category = 5
+URLDownload = https://i430vx.net/files/XP/RoyTam%20Browser%20Installer.exe
+Icon = roytam1install.ico
+SHA1 = 12C20E371F0BCFEF427EF2DDC5B6B8B7DFC0B79E
+SizeBytes = 2307636

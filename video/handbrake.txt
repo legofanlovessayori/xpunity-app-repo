@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = HandBrake
 Version = 3.0.18
 License = Unknown

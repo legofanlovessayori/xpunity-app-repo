@@ -1,0 +1,11 @@
+[Section]
+Name = UltraUXTheme
+Version = 4.4.1
+License = Unknown
+Description = A UXTheme patcher that allows running 3rd party themes under Windows.
+Category = 15
+URLSite = https://mhoefs.eu/software_uxtheme.php
+URLDownload = https://mhoefs.eu/software_uxtheme.php
+SHA1 = 1331BDC6652F6FA783E583FB90636F846C57A3BA
+SizeBytes = 163408
+Icon = ultrauxtheme.ico

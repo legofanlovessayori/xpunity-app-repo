@@ -1,0 +1,10 @@
+[Section]
+Name = Windows Live Essentials
+Version = 2009
+License = Unknown
+Description = Last XP compatible version of Microsoft's now defunkt Live Suite of apps.
+Category = 10
+URLDownload = https://i430vx.net/files/XP/wlsetup-all.exe
+SHA1 = 755024FA37C0B30A0E171EDEE7A0F99EE29C0AE8
+SizeBytes = 141399376
+Icon = wles.ico

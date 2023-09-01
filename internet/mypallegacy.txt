@@ -1,4 +1,4 @@
-﻿[Section]
+[Section]
 Name = Mypal Legacy
 Version = 29.3.0
 License = MPL/GPL/LGPL

@@ -1,0 +1,11 @@
+[Section]
+Name = ClassiCube
+Version = 1.3.6
+License = Unknown
+Description = A C Rewrite of Minecraft Classic.
+Category = 4
+URLSite = https://www.classicube.net/
+URLDownload = https://cdn.classicube.net/client/release/win32/ClassiCube.exe
+SHA1 = ACE40C1B315AFB2923972C56039D4D0E54D3ECC0
+SizeBytes = 949248
+Icon = classicube.ico

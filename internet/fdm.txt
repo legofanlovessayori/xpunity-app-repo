@@ -1,5 +1,5 @@
-﻿[Section]
-Name = Free Download Manager
+[Section]
+Name = Free Download Manager (FDM)
 Version = 6.4.0 Build 7
 License = GPL
 Description = A free of charge Download Manager.

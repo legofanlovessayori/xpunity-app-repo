@@ -1,0 +1,11 @@
+[Section]
+Name = Root Certificate Update
+Version = 1.6
+License = Unknown
+Description = Updates expired Root Certificates, allowing Windows XP to almost fully utilize the modern Internet again.
+Category = 11
+URLSite = https://i430vx.net
+URLDownload = http://i430vx.net/files/misc/Cert_Updater_v1.6.exe
+SHA1 = 1330F100CC79000D5F129CABC37FBC3EBB481DFD
+SizeBytes = 1686588
+Icon = rootcertupd.ico

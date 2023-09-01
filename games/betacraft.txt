@@ -1,0 +1,11 @@
+[Section]
+Name = BetaCraft Launcher
+Version = 1.09_16
+License = Unknown
+Description = A open source, java based Minecraft Launcher that allows you to play retro versions as they were intended to on modern pcs.
+Category = 4
+URLSite = https://betacraft.uk/
+URLDownload = https://github.com/betacraftuk/betacraft-launcher/releases/download/1.09_16/launcher-1.09_16.exe
+SHA1 = 309E1722BFB7812E4D19D4E06DB97A6ECD8CB30C
+SizeBytes = 728112
+Icon = betacraft.ico
